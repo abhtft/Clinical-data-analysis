@@ -1,0 +1,356 @@
+TimeOUT,"UniqueID (Date & Serial no.) ex:(210828001 - 28 august,2021,001 patient)",Type,Visit Number,Mobile Number,Age,Address,Gender,Doctor,Reference,Attendant
+19-09-2021 23:20,210830010,New,2,9302240877,70,pithara,Male,Dr. Mamta singh,Poster/Pamplet,Lakshmi
+30-09-2021 16:15,210901001,Old,2,7000127373,49,Tosgav,Male,Pharmacy,Patient,Neha
+29-09-2021 11:29,210919016,New,1,7008456196,26,Arjunda,Female,Dr. Mamta singh,Social Media,Bandani
+21-09-2021 09:17,210921001,Old,2,6264157491,20,Spl,Female,Dr. Mamta singh,Painting,Bandani
+21-09-2021 10:06,210921001,Old,2,6267046855,50,Semliya,Female,Dr. Mamta singh,Patient,Rakhi
+22-09-2021 09:32,210921001,Old,2,9999999999,62,Saraipali,Male,Dr. Mamta singh,Patient,Ragini
+27-09-2021 09:01,210921001,New,,8651141962,26,benta chowk,Male,Dr. Mamta singh,Patient,Jyoti
+21-09-2021 10:07,210921002,Old,4,7489445909,20,Saraipali,Female,Dr. Mamta singh,Patient,Lakshmi
+22-09-2021 09:39,210921002,Old,2,9302142007,65,Bhutiya,Male,Dr. Mamta singh,Patient,Rakhi
+21-09-2021 10:10,210921003,Old,2,9399558783,36,Toresiha,Female,Dr. Mamta singh,Patient,Nilam
+22-09-2021 09:44,210921003,Old,2,9753824816,19,Barbaspur,Female,Dr. Mamta singh,Patient,Neha
+21-09-2021 10:15,210921004,New,1,9131847915,26,Koilbahal,Male,Dr. Mamta singh,Patient,Neha
+22-09-2021 09:45,210921004,New,1,7974643676,10,Basna,Male,Dr. Mamta singh,Painting,Jyoti
+21-09-2021 09:19,210921005,New,,9753695269,40,Sp,Female,Dr. Shyam Kishor Panjiyar,Painting,Simpi
+21-09-2021 10:19,210921005,Old,2,8120285868,63,Jharban,Male,Dr. Mamta singh,Patient,Rakhi
+21-09-2021 10:41,210921005,Old,2,9009131139,40,Kaurpali,Female,Dr. Mamta singh,Patient,Nilam
+22-09-2021 09:55,210921005,New,1,9926174861,60,Sardhabhata,Male,Dr. Mamta singh,Patient,Gaytri
+21-09-2021 10:25,210921006,Old,3,7479435644,24,Sankarpur,Male,Dr. Mamta singh,Patient,Jyoti
+21-09-2021 10:44,210921006,New,1,9644014425,27,Baradoli,Female,Dr. Mamta singh,Patient,Rakhi
+21-09-2021 11:08,210921008,New,1,7697489157,55,Pirda,Female,Dr. Mamta singh,Patient,Jyoti
+21-09-2021 11:10,210921009,Old,5,9131706598,23,Basna,Male,Dr. Mamta singh,Patient,Neha
+21-09-2021 11:18,210921010,Old,5,7999667011,13,Paranpali,Female,Dr. Mamta singh,Patient,Rakhi
+21-09-2021 11:24,210921011,New,1,7742123069,24,Barihapali,Male,Dr. Mamta singh,Patient,Nilam
+21-09-2021 11:25,210921012,Old,5,6263208890,68,Jagat,Female,Dr. Mamta singh,Patient,Jyoti
+21-09-2021 11:34,210921013,New,1,9340626102,28,Golajhar,Male,Dr. Mamta singh,Patient,Neha
+21-09-2021 11:41,210921014,New,1,9340626102,23,Golajhar,Female,Dr. Mamta singh,Patient,Gaytri
+21-09-2021 11:48,210921015,Old,1,9575333055,27,Saraipali,Male,Dr. Mamta singh,Patient,Nilam
+21-09-2021 11:51,210921016,Old,1,7077313342,33,Basna,Male,Dr. Mamta singh,Patient,Rakhi
+21-09-2021 11:53,210921017,New,1,7440977584,38,Basna,Female,Dr. Mamta singh,Patient,Jyoti
+21-09-2021 12:02,210921018,New,1,7354867111,22,Saraipali,Male,Dr. Mamta singh,Patient,Neha
+21-09-2021 12:07,210921019,Old,2,9301422026,19,Gahnakhar,Female,Dr. Mamta singh,Patient,Gaytri
+21-09-2021 12:21,210921020,Old,3,9754429155,55,Harratal,Male,Dr. Mamta singh,Patient,Nilam
+21-09-2021 12:24,210921021,New,1,9329572450,22,Saraipali,Male,Dr. Mamta singh,Patient,Rakhi
+21-09-2021 12:31,210921022,New,1,7049612297,56,Manpasar,Male,Dr. Mamta singh,Painting,Jyoti
+21-09-2021 12:35,210921023,New,1,8120755177,40,Dongripali,Female,Dr. Mamta singh,Patient,Neha
+21-09-2021 12:41,210921024,Old,3,9752981105,35,Kharkhari,Female,Dr. Mamta singh,Patient,Gaytri
+21-09-2021 12:45,210921025,Old,1,7974668330,32,Devri,Male,Dr. Mamta singh,Patient,Rakhi
+21-09-2021 12:49,210921026,New,1,9165675258,62,Baloda,Male,Dr. Mamta singh,Patient,Nilam
+21-09-2021 13:00,210921027,Old,8,9999999999,65,Kejuaa,Male,Dr. Mamta singh,Patient,Neha
+21-09-2021 13:03,210921028,New,1,9329572450,33,Saraipali,Male,Dr. Mamta singh,Patient,Jyoti
+21-09-2021 13:08,210921029,Old,2,6263529475,34,Rimjhi,Male,Dr. Mamta singh,Patient,Jyoti
+21-09-2021 13:10,210921030,Old,1,6263529475,18,Rimjhi,Female,Dr. Mamta singh,Patient,Nilam
+21-09-2021 16:28,210921031,Old,2,9691420296,28,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+22-09-2021 10:07,210922006,Old,8,9754093254,22,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+22-09-2021 10:13,210922007,New,1,6263788551,30,Lavanpur,Male,Dr. Mamta singh,Patient,Ragini
+22-09-2021 10:22,210922008,Old,6,9340714596,58,Mandip,Male,Dr. Mamta singh,Patient,Jyoti
+22-09-2021 11:02,210922009,New,1,9685530413,3,Raykona,Male,Dr. Mamta singh,Painting,Rakhi
+22-09-2021 11:07,210922010,Old,2,9178826074,10,Jharban,Female,Dr. Mamta singh,Patient,Ragini
+22-09-2021 11:10,210922011,Old,3,9131623643,35,Sankra,Female,Dr. Mamta singh,Patient,Jyoti
+22-09-2021 11:14,210922012,New,1,8305093997,39,Bandabri,Male,Dr. Mamta singh,Patient,Neha
+22-09-2021 11:21,210922013,Old,2,9691176370,13,Ranbhatiya,Female,Dr. Mamta singh,Patient,Gaytri
+22-09-2021 11:42,210922014,New,1,9691176370,18,Ranbhatiya,Female,Dr. Mamta singh,Patient,Rakhi
+22-09-2021 11:47,210922015,New,1,9644210004,26,Saliha,Male,Dr. Mamta singh,Social Media,Ragini
+22-09-2021 11:53,210922016,New,1,7379684678,24,Uttar pradesh,Male,Dr. Mamta singh,Social Media,Vinod
+22-09-2021 12:10,210922017,New,1,7987357822,38,Harratar,Male,Dr. Mamta singh,Patient,Jyoti
+22-09-2021 12:17,210922019,New,1,8889142029,48,Udela,Female,Dr. Mamta singh,Patient,Neha
+22-09-2021 12:21,210922020,Old,2,9770887650,30,Saraipali,Female,Dr. Mamta singh,Patient,Gaytri
+22-09-2021 12:25,210922021,Old,2,8335569296,45,Basna,Male,Dr. Mamta singh,Patient,Rakhi
+22-09-2021 12:31,210922022,New,1,9479056903,17,Sarangarh,Female,Dr. Mamta singh,Patient,Neha
+22-09-2021 12:37,210922023,New,1,7725002002,14,Saraipali,Male,Dr. Mamta singh,Patient,Ragini
+22-09-2021 12:39,210922024,New,1,6260247272,22,Saraipali,Male,Dr. Mamta singh,Poster/Pamplet,Jyoti
+22-09-2021 12:43,210922025,New,1,9399804143,27,Baloda,Male,Dr. Mamta singh,Social Media,Nilam
+22-09-2021 12:48,210922027,New,1,7803094011,41,Baradoli,Male,Dr. Mamta singh,Patient,Gaytri
+22-09-2021 12:51,210922028,New,1,6263973141,21,Singhoda,Male,Dr. Mamta singh,Patient,Neha
+22-09-2021 12:57,210922029,New,1,9713900047,10 month,Saraipali,Male,Dr. Mamta singh,Patient,Ragini
+22-09-2021 13:02,210922030,New,1,9753254466,18,Jayjaypur,Female,Dr. Mamta singh,Patient,Nilam
+22-09-2021 13:15,210922031,Old,2,7999385770,23,Saraipali,Male,Dr. Mamta singh,Patient,Neha
+22-09-2021 17:33,210923001,New,1,9575834959,35,Boirdih,Female,Dr. Mamta singh,Patient,Lakshmi
+23-09-2021 09:23,210923002,Old,2,7067016515,56,Baidpali,Male,Dr. Mamta singh,Patient,Nilam
+23-09-2021 09:29,210923003,New,1,7077333818,8,Kapati,Male,Dr. Mamta singh,Social Media,Neha
+23-09-2021 09:33,210923004,Old,2,7697542622,45,Gharjhara,Male,Dr. Mamta singh,Painting,Rakhi
+23-09-2021 09:43,210923005,New,1,6263424800,6,Darripali,Male,Dr. Mamta singh,Social Media,Ragini
+23-09-2021 09:45,210923006,New,1,6263456146,55,Bade pandhi,Female,Dr. Mamta singh,Social Media,Jyoti
+23-09-2021 10:13,210923007,Old,2,9926279111,62,Kawakunda,Male,Pharmacy,Patient,Ragini
+23-09-2021 10:17,210923008,New,1,6263688410,19,Bhawarpur,Male,Dr. Mamta singh,Patient,Gaytri
+23-09-2021 10:26,210923009,Old,3,8224905060,50,Palsabhadi,Female,Dr. Mamta singh,Patient,Nilam
+23-09-2021 10:29,210923010,Old,8,7489710910,40,Kundapali,Male,Dr. Mamta singh,Patient,Neha
+23-09-2021 10:32,210923011,New,1,7067963457,38,Udela,Female,Dr. Mamta singh,Painting,Rakhi
+23-09-2021 10:35,210923012,New,1,9669784777,28,Pirda,Male,Dr. Mamta singh,Social Media,Jyoti
+23-09-2021 10:37,210923013,Old,2,9977915575,35,Basna,Male,Pharmacy,Patient,Neha
+23-09-2021 10:45,210923014,Old,2,9999999999,70,Saraipali,Male,Pharmacy,Patient,Ragini
+23-09-2021 10:51,210923015,New,1,9131972147,38,Jugnipali,Female,Dr. Mamta singh,Patient,Nilam
+23-09-2021 10:54,210923016,New,1,9977151535,36,Barihapali,Male,Dr. Mamta singh,Patient,Gaytri
+23-09-2021 10:57,210923017,New,1,9669513595,32,Barihapali,Male,Dr. Mamta singh,Patient,Ragini
+23-09-2021 11:05,210923018,New,1,7771953269,50,Potapara,Male,Dr. Mamta singh,Patient,Neha
+23-09-2021 11:25,210923019,Old,2,7617240085,22,Tangapasha,Male,Dr. Mamta singh,Patient,Rakhi
+23-09-2021 11:33,210923020,Old,3,9669467385,34,Basna,Female,Dr. Mamta singh,Patient,Nilam
+23-09-2021 11:37,210923021,New,1,8319704839,41,Basna,Female,Dr. Mamta singh,Patient,Gaytri
+23-09-2021 11:45,210923022,New,1,7089512416,18,Basna,Female,Dr. Mamta singh,Patient,Ragini
+23-09-2021 11:53,210923023,Old,3,7999456854,30,Harratar,Male,Dr. Mamta singh,Patient,Neha
+23-09-2021 11:58,210923024,Old,2,9999999999,40,Koilbahal,Female,Dr. Mamta singh,Patient,Nilam
+23-09-2021 12:06,210923025,New,1,8018527144,15,Saraipali,Female,Dr. Mamta singh,Patient,Rakhi
+23-09-2021 12:01,210923026,Old,2,8839333247,18,Paterapali,Male,Pharmacy,Patient,Rakhi
+23-09-2021 12:09,210923027,New,1,9999999999,79,Nawagaon,Male,Dr. Mamta singh,Painting,Gaytri
+23-09-2021 12:14,210923028,Old,2,7000295840,38,Sarangarh,Female,Dr. Mamta singh,Patient,Neha
+23-09-2021 12:23,210923029,Old,3,8435900248,53,Bardih,Male,Dr. Mamta singh,Patient,Nilam
+23-09-2021 12:19,210923030,New,1,9399294931,31,Sarangarh,Female,Dr. Mamta singh,Poster/Pamplet,Lakshmi
+23-09-2021 12:34,210923031,New,1,7879716942,55,Baradoli,Male,Dr. Mamta singh,Patient,Gaytri
+23-09-2021 12:41,210923032,New,1,9131449009,28,Saraipali,Male,Dr. Mamta singh,Patient,Neha
+23-09-2021 12:47,210923033,New,1,9754984922,40,Balsi,Female,Dr. Mamta singh,Painting,Praveen
+23-09-2021 12:58,210923034,Old,3,8889734588,29,Banipali,Male,Dr. Mamta singh,Patient,Nilam
+23-09-2021 13:07,210923035,Old,3,7489882044,34,Jhilmila,Female,Pharmacy,Patient,Neha
+23-09-2021 13:19,210923036,New,1,9993435350,9 month,Kendudhar,Female,Dr. Mamta singh,Patient,Neha
+23-09-2021 13:33,210923037,New,1,9098909467,34,Jalpur,Female,Dr. Mamta singh,Patient,Neha
+24-09-2021 09:45,210924001,Old,3,7077313342,33,Basna,Male,Dr. Mamta singh,Patient,Neha
+24-09-2021 09:29,210924002,Old,10,9669276375,24,Pithora,Male,Dr. Mamta singh,Patient,Simpi
+24-09-2021 09:32,210924003,Old,3,9907782456,76,Balsi,Male,Dr. Mamta singh,Patient,Gaytri
+24-09-2021 09:43,210924004,Old,4,7999523090,41,Batki,Female,Dr. Mamta singh,Patient,Jyoti
+24-09-2021 09:48,210924005,New,1,8965056444,35,Kirapali,Female,Dr. Mamta singh,Patient,Neha
+24-09-2021 09:55,210924006,Old,2,9993147487,51,Saraipali,Female,Dr. Mamta singh,Patient,Gaytri
+24-09-2021 10:06,210924007,Old,4,6268631358,15,Gidhali,Female,Dr. Mamta singh,Painting,Ragini
+24-09-2021 10:09,210924008,Old,11,9754405119,28,Basna,Male,Dr. Mamta singh,Patient,Nilam
+24-09-2021 10:15,210924010,Old,6,9131794002,22,Ramtek,Female,Dr. Mamta singh,Patient,Jyoti
+24-09-2021 10:32,210924010,Old,6,9131794002,42,Ramtek,Female,Dr. Mamta singh,Patient,Neha
+24-09-2021 10:28,210924011,Old,3,9009333089,22,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+24-09-2021 10:33,210924012,Old,5,9131794002,44,Ramtek,Male,Dr. Mamta singh,Patient,Nilam
+24-09-2021 10:46,210924013,Old,4,9399518381,27,Bamhanpuri,Male,Dr. Mamta singh,Patient,Gaytri
+24-09-2021 10:52,210924014,Old,2,8878857688,23,Bhavarpur,Male,Dr. Mamta singh,Patient,Rakhi
+24-09-2021 10:56,210924015,Old,4,7587360595,62,Sarangarh,Male,Dr. Mamta singh,Painting,Ragini
+24-09-2021 11:02,210924016,Old,2,8319762066,36,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+24-09-2021 11:06,210924017,Old,4,7999535357,55,Bhadra,Female,Dr. Mamta singh,Painting,Jyoti
+24-09-2021 11:13,210924018,Old,4,9999999999,35,Nawrangpur,Female,Dr. Mamta singh,Patient,Nilam
+24-09-2021 11:16,210924019,New,1,8982865293,30,Saraipali,Female,Dr. Mamta singh,Patient,Gaytri
+24-09-2021 11:22,210924020,Old,7,9999999999,37,Charbhata,Female,Dr. Mamta singh,Patient,Rakhi
+24-09-2021 11:27,210924021,Old,4,8815513670,35,Dhamangutkuri,Male,Dr. Mamta singh,Patient,Neha
+24-09-2021 11:33,210924022,New,1,9999999999,48,Pandripani,Male,Dr. Mamta singh,Painting,Jyoti
+24-09-2021 11:42,210924023,Old,2,6264382244,26,Balodabazar,Female,Dr. Mamta singh,Patient,Gaytri
+24-09-2021 11:45,210924024,Old,3,6264202780,13,Darrabhata,Male,Dr. Mamta singh,Patient,Bandani
+24-09-2021 11:48,210924025,New,1,9999999999,50,Kasdol,Male,Dr. Mamta singh,Painting,Ragini
+24-09-2021 11:53,210924028,Old,6,9999999999,65,Sarsiwa,Male,Dr. Mamta singh,Patient,Rakhi
+24-09-2021 11:56,210924029,New,1,9131283564,30,Sarangarh,Female,Dr. Mamta singh,Painting,Dushyant Pradhan
+24-09-2021 11:58,210924030,New,1,6265824565,21,Koilbahal,Female,Dr. Mamta singh,Patient,Nilam
+24-09-2021 12:11,210924031,Old,4,9340553820,16,Patsendri,Female,Dr. Mamta singh,Patient,Jyoti
+24-09-2021 12:14,210924034,New,1,7987281753,24,Palsapali,Male,Dr. Mamta singh,Patient,Gaytri
+25-09-2021 09:27,210925001,Old,7,6263343819,28,Nawapara,Female,Dr. Mamta singh,Patient,Neha
+25-09-2021 09:33,210925002,New,1,9009995224,30,Bilaigarh,Male,Dr. Mamta singh,Patient,Gaytri
+25-09-2021 09:55,210925003,New,1,9926344657,10 month,Kismisaral,Male,Dr. Mamta singh,Painting,Jyoti
+25-09-2021 10:02,210925005,New,1,9399650041,29,Chhibarra,Male,Dr. Mamta singh,Patient,Rakhi
+25-09-2021 10:06,210925006,Old,3,8959207799,37,Ajgarkhar,Female,Dr. Mamta singh,Patient,Neha
+25-09-2021 10:15,210925007,Old,3,9915812004,39,Saraipali,Male,Dr. Mamta singh,Patient,Nilam
+25-09-2021 10:17,210925008,Old,7,6263208890,68,Jagat,Female,Dr. Mamta singh,Patient,Gaytri
+25-09-2021 10:20,210925009,Old,7,6265108520,45,Nawapali,Female,Dr. Mamta singh,Patient,Nilam
+25-09-2021 10:28,210925010,Old,1,6262631312,26,Saraipali,Male,Dr. Mamta singh,Patient,Jyoti
+25-09-2021 10:30,210925011,Old,3,9164910543,66,Parsoda,Male,Dr. Mamta singh,Patient,Ragini
+25-09-2021 10:32,210925012,Old,4,8817377739,19,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+25-09-2021 10:55,210925013,Old,2,7771953420,31,Kankewa,Male,Dr. Mamta singh,Patient,Rakhi
+25-09-2021 11:01,210925014,Old,2,8305408580,27,Rimjhi,Female,Dr. Mamta singh,Patient,Gaytri
+25-09-2021 11:14,210925015,New,1,8982111256,15,Basna,Male,Dr. Mamta singh,Patient,Jyoti
+25-09-2021 11:18,210925016,New,1,9131243511,29,Saraipali,Male,Dr. Mamta singh,Patient,Ragini
+25-09-2021 11:24,210925017,Old,4,9644014425,45,Baradoli,Female,Dr. Mamta singh,Patient,Rakhi
+25-09-2021 11:28,210925018,New,1,9098652747,29,Singhbahal,Male,Dr. Mamta singh,Patient,Neha
+25-09-2021 11:58,210925019,Old,2,9522481000,64,Bilaigarh,Male,Dr. Mamta singh,Patient,Rakhi
+25-09-2021 12:03,210925020,New,1,9926124304,25,Saraipali,Male,Dr. Mamta singh,Patient,Neha
+25-09-2021 12:18,210925021,New,1,7770884600,27,Remda,Male,Dr. Mamta singh,Patient,Ragini
+25-09-2021 12:21,210925022,New,1,6264872264,23,Basna,Female,Dr. Mamta singh,Poster/Pamplet,Gaytri
+25-09-2021 12:30,210925023,Old,3,9131366761,22,Kusmisarar,Male,Dr. Mamta singh,Patient,Jyoti
+26-09-2021 09:25,210926001,Old,8,7987762113,21,Barihapali,Male,Pharmacy,Patient,Neha
+26-09-2021 09:40,210926002,Old,3,8839549867,46,Saraipali,Male,Dr. Mamta singh,Patient,Rakhi
+26-09-2021 09:45,210926003,Old,2,9399476507,25,Moulikhar,Male,Dr. Mamta singh,Patient,Nilam
+26-09-2021 09:52,210926004,New,1,8770659233,27,Saraipali,Male,Dr. Mamta singh,Patient,Ragini
+26-09-2021 09:57,210926005,Old,2,8839523119,22,Basna,Female,Dr. Mamta singh,Patient,Jyoti
+26-09-2021 10:00,210926006,Old,4,9868641100,33,Saraipali,Female,Dr. Mamta singh,Patient,Bandani
+26-09-2021 10:01,210926007,New,1,9926729229,33,Badesajapali,Male,Dr. Mamta singh,Social Media,Neha
+26-09-2021 10:08,210926008,New,1,7509970768,31,"Bandapali, janjgir chanpa",Male,Dr. Mamta singh,Painting,Gaytri
+26-09-2021 10:10,210926009,Old,2,7415656705,21,Sarsiwa,Male,Dr. Mamta singh,Patient,Rakhi
+26-09-2021 10:19,210926010,Old,2,9399650041,29,Chhibarra,Male,Dr. Mamta singh,Patient,Lakshmi
+26-09-2021 10:24,210926011,Old,2,8717852999,31,Basna,Female,Dr. Mamta singh,Patient,Jyoti
+26-09-2021 10:31,210926012,New,1,9340534267,29,Devalbhata,Male,Dr. Mamta singh,Patient,Lakshmi
+26-09-2021 10:34,210926013,New,1,9009873883,55,Sahaspani,Male,Dr. Mamta singh,Painting,Nilam
+26-09-2021 10:37,210926014,New,1,8815817012,27,Barikpali,Female,Dr. Mamta singh,Patient,Bandani
+26-09-2021 10:39,210926015,Old,3,9826141407,40,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+26-09-2021 10:41,210926016,Old,8,9754321634,50,Gadfuljhar,Male,Dr. Mamta singh,Patient,Rakhi
+26-09-2021 10:46,210926017,Old,2,8516899263,28,Saraipali,Male,Dr. Mamta singh,Social Media,Jyoti
+26-09-2021 11:08,210926018,Old,2,6264939657,45,Nawagaon,Male,Dr. Mamta singh,Painting,Nilam
+26-09-2021 11:10,210926019,Old,2,6264939657,21,Badesajapali,Male,Dr. Mamta singh,Painting,Lakshmi
+26-09-2021 11:19,210926020,New,3,8980979607,40,Spl,Male,Dr. Mamta singh,Social Media,Neha
+26-09-2021 11:21,210926020,Old,3,9301673089,35,Pithoda,Female,Dr. Mamta singh,Patient,Bandani
+26-09-2021 11:24,210926021,Old,3,9009130578,48,Mohda,Female,Dr. Mamta singh,Patient,Jyoti
+26-09-2021 11:26,210926022,Old,6,9300302205,10,Sarangarh,Female,Dr. Mamta singh,Patient,Rakhi
+26-09-2021 11:28,210926023,Old,5,8109461610,26,Bhatgaon,Male,Dr. Mamta singh,Patient,Neha
+26-09-2021 11:31,210926024,New,1,9669913547,50,Jogipali,Female,Dr. Mamta singh,Patient,Gaytri
+26-09-2021 11:35,210926025,New,1,6264645619,30,Saraipali,Female,Dr. Mamta singh,Gayatri sttaf,Nilam
+26-09-2021 11:41,210926026,Old,2,8225799082,29,Chiprikona,Female,Dr. Mamta singh,Patient,Lakshmi
+26-09-2021 11:50,210926027,New,1,8963952870,30,Basna,Female,Dr. Mamta singh,Patient,Jyoti
+26-09-2021 11:51,210926028,New,1,6266256288,20,Saraipali,Female,Dr. Mamta singh,Patient,Rakhi
+26-09-2021 12:17,210926029,New,1,9770147199,24,Saraipali,Female,Dr. Mamta singh,Patient,Bandani
+26-09-2021 12:31,210926030,New,1,7904280706,32,Saraipali,Male,Dr. Mamta singh,Patient,Bandani
+26-09-2021 12:34,210926031,New,1,9131736525,26,Saraipali,Male,Dr. Mamta singh,Painting,Neha
+26-09-2021 12:53,210926032,Old,2,9926226626,37,Basna,Male,Dr. Mamta singh,Patient,Gaytri
+26-09-2021 12:59,210926033,New,1,9589992000,60,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+26-09-2021 13:26,210926034,Old,4,9009013071,21,Khamman,Female,Dr. Mamta singh,Patient,Bandani
+26-09-2021 13:42,210926035,New,1,8224093756,14,Saraipali,Male,Dr. Mamta singh,Patient,Neha
+26-09-2021 13:47,210926036,New,1,7999708435,4 month,Saraipali,Male,Dr. Mamta singh,Patient,Gaytri
+26-09-2021 14:08,210926036,New,1,7999708435,26,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+26-09-2021 14:19,210926038,Old,4,9131623643,35,Sankra,Female,Pharmacy,Patient,Lakshmi
+26-09-2021 16:03,210927001,Old,2,9999999999,60,Baitari,Male,Dr. Mamta singh,Patient,Gaytri
+26-09-2021 16:48,210927002,Old,3,9131856016,22,Tilaimal,Female,Pharmacy,Patient,Nilam
+27-09-2021 09:16,210927003,Old,5,7722939369,37,Jhilmila,Male,Dr. Mamta singh,Patient,Rakhi
+27-09-2021 09:24,210927004,New,1,6263529475,58,Rimjhi,Male,Dr. Mamta singh,Patient,Ragini
+27-09-2021 09:32,210927005,New,1,8839742157,23,Bhutiya,Male,Dr. Mamta singh,Patient,Gaytri
+27-09-2021 09:37,210927006,New,1,6264047631,25,Lawamahuaa,Female,Dr. Mamta singh,Painting,Jyoti
+27-09-2021 09:43,210927007,Old,2,6263529475,12,Raigarh,Female,Pharmacy,Patient,Neha
+27-09-2021 09:41,210927008,Old,3,7974751311,46,Jagat,Male,Dr. Mamta singh,Patient,Lakshmi
+27-09-2021 09:54,210927009,New,1,7999683771,74,Bichhiya,Male,Dr. Mamta singh,Poster/Pamplet,Neha
+27-09-2021 09:59,210927010,Old,3,6265528782,29,Saraipali,Female,Dr. Mamta singh,Patient,Bandani
+27-09-2021 10:04,210927011,New,1,9754872373,39,Kapukunda,Female,Dr. Mamta singh,Social Media,Rakhi
+27-09-2021 10:06,210927012,New,1,9165326878,30,Mokhaputka,Male,Dr. Mamta singh,Patient,Ragini
+27-09-2021 10:22,210927013,New,1,9340055748,23,Ichhapur,Female,Dr. Mamta singh,Patient,Jyoti thakur
+27-09-2021 10:32,210927014,Old,2,6265528782,31,Sajapali,Male,Pharmacy,Patient,Bandani
+27-09-2021 11:09,210927015,New,1,7697910434,13,Saraipali,Male,Dr. Mamta singh,Patient,Jyoti
+27-09-2021 11:10,210927016,New,1,8770426221,30,Parsoda,Female,Dr. Mamta singh,Patient,Neha
+27-09-2021 11:14,210927017,Old,4,8109992743,13,Bhatgaon,Male,Dr. Mamta singh,Patient,Jyoti thakur
+27-09-2021 11:18,210927018,Old,3,9165277745,3,Saraipali,Female,Dr. Mamta singh,Patient,Gaytri
+27-09-2021 11:24,210927019,New,1,8319374210,21,Bodesara,Male,Dr. Mamta singh,Patient,Rakhi
+27-09-2021 11:37,210927020,Old,3,9977164817,30,Ponsara,Female,Dr. Mamta singh,Patient,Neha
+27-09-2021 11:43,210927021,New,1,7987688282,36,"Bhinoda , Sarsiwa",Male,Dr. Mamta singh,Patient,Ragini
+27-09-2021 11:54,210927022,Old,4,9644973429,53,Jalpur,Male,Dr. Mamta singh,Patient,Gaytri
+27-09-2021 12:01,210927023,Old,2,8815682099,19,Basna,Female,Dr. Mamta singh,Patient,Jyoti
+27-09-2021 12:02,210927024,Old,2,7974770456,26,Kutela,Female,Dr. Mamta singh,Patient,Bandani
+27-09-2021 12:05,210927025,New,1,9999999999,61,Jhilmila,Male,Dr. Mamta singh,Poster/Pamplet,Lakshmi
+27-09-2021 12:07,210927026,Old,2,9617157949,4,"Ghespali, Saraipali",Male,Dr. Mamta singh,Patient,Neha
+27-09-2021 12:16,210927027,New,1,6564515696,8,Jhalap,Female,Dr. Mamta singh,Patient,Ragini
+27-09-2021 12:26,210927028,Old,2,7067292511,2,Jhalap,Female,Dr. Mamta singh,Patient,Gaytri
+27-09-2021 12:31,210927029,New,1,7067292411,14,Jhalap,Male,Dr. Mamta singh,Patient,Bandani
+27-09-2021 12:34,210927030,Old,5,9999999999,35,"Kurdi , janjgir chanpa",Female,Dr. Mamta singh,Patient,Rakhi
+27-09-2021 12:36,210927031,New,1,9669667137,45,Basna,Male,Dr. Mamta singh,Patient,Jyoti
+27-09-2021 12:43,210927033,Old,4,7389551978,38,Mohtarana,Female,Dr. Mamta singh,Patient,Jyoti
+27-09-2021 12:44,210927034,New,1,8839040767,18,Narsinghpur,Female,Dr. Mamta singh,Painting,Neha
+27-09-2021 12:49,210927035,New,1,8839040767,38,Narsinghpur,Female,Dr. Mamta singh,Painting,Ragini
+27-09-2021 12:54,210927036,New,1,9425290444,2,Shakti,Male,Dr. Mamta singh,Patient,Gaytri
+27-09-2021 12:58,210927037,Old,2,9575890656,32,Bandlimal,Male,Dr. Mamta singh,Patient,Bandani
+27-09-2021 13:03,210927038,,3,9399558783,34,Toresiha,Female,Pharmacy,Patient,Bandani
+27-09-2021 13:12,210927039,Old,2,7999444515,33,Damodarha,Female,Dr. Mamta singh,Patient,Lakshmi
+27-09-2021 13:21,210927040,New,1,7000229820,29,Devalbhata,Female,Dr. Mamta singh,Patient,Gaytri
+27-09-2021 13:23,210927041,New,1,7828276363,32,Saraipali,Male,Dr. Mamta singh,Patient,Neha
+27-09-2021 15:47,210928001,New,1,8319553002,15,Saraipali,Male,Dr. Mamta singh,Patient,Jyoti
+27-09-2021 17:25,210928001,Old,5,8435191111,45,Saraipali,Male,Dr. Mamta singh,Patient,Bandani
+27-09-2021 17:35,210928002,Old,3,7692985543,35,Saraipali,Male,Pharmacy,Patient,Preeti
+28-09-2021 08:57,210928003,Old,4,7999169462,30,Kusmisarar,Female,Pharmacy,Patient,Nilam
+28-09-2021 09:08,210928004,New,1,7354447548,,Pithora,Female,Dr. Mamta singh,Patient,Neha
+28-09-2021 09:14,210928005,Old,3,8435347378,25,Arjunda,Male,Dr. Mamta singh,Patient,Jyoti
+28-09-2021 09:22,210928007,Old,2,9299699446,13,Jagdishpur,Female,Dr. Mamta singh,Patient,Rakhi
+28-09-2021 09:31,210928008,New,1,9754244697,60,Singhoda,Male,Dr. Mamta singh,Patient,Bandani
+28-09-2021 09:33,210928009,Old,2,9617204230,76,Limgaon,Male,Dr. Mamta singh,Patient,Ragini
+28-09-2021 09:47,210928010,Old,3,9669131022,37,Pithora,Male,Dr. Mamta singh,Patient,Jyoti thakur
+28-09-2021 09:58,210928011,New,1,7828673961,60,Basna,Male,Dr. Mamta singh,Patient,Neha
+28-09-2021 10:04,210928012,New,1,9691267778,65,Girsa,Female,Dr. Mamta singh,Patient,Jyoti
+28-09-2021 10:15,210928013,New,1,6261402099,7,Mokhaputka,Female,Dr. Mamta singh,Painting,Gaytri
+28-09-2021 10:19,210928014,Old,2,9977170638,24,Kapudihi,Male,Dr. Mamta singh,Patient,Bandani
+28-09-2021 10:29,210928015,New,1,6266798948,78,Lankahuda,Male,Dr. Mamta singh,Poster/Pamplet,Ragini
+28-09-2021 10:32,210928016,Old,2,8839788439,22,Durugpali,Male,Dr. Mamta singh,Patient,Rakhi
+28-09-2021 10:48,210928017,New,1,6263924677,18,Basna,Male,Dr. Mamta singh,Patient,Jyoti thakur
+28-09-2021 10:55,210928018,Old,7,9669102724,62,Ankori,Male,Dr. Mamta singh,Patient,Jyoti
+28-09-2021 11:04,210928019,New,1,7610702916,45,Lalmati,Female,Dr. Mamta singh,Patient,Neha
+28-09-2021 11:07,210928020,New,1,7610702016,11,Lalmati,Male,Dr. Mamta singh,Patient,Gaytri
+28-09-2021 11:31,210928021,Old,3,8817318809,50,Kendudhar,Male,Dr. Mamta singh,Patient,Rakhi
+28-09-2021 11:35,210928022,New,1,7470903023,42,"Kapartunga , Baramkela",Female,Dr. Mamta singh,Painting,Ragini
+28-09-2021 11:38,210928023,New,1,7869424340,50,Kapartunga,Male,Dr. Mamta singh,Painting,Neha
+28-09-2021 11:46,210928024,Old,3,6260171260,38,Singhoda,Female,Dr. Mamta singh,Patient,Gaytri
+28-09-2021 11:58,210928025,Old,2,7771953420,7,Kankewa,Female,Dr. Mamta singh,Patient,Ragini
+28-09-2021 12:02,210928026,Old,2,9691240906,23,Girsha,Female,Dr. Mamta singh,Patient,Rakhi
+28-09-2021 12:13,210928027,New,1,9669714068,34,Kokdi,Female,Dr. Mamta singh,Patient,Jyoti
+28-09-2021 12:15,210928028,New,1,9340495621,26,Kutela,Female,Dr. Mamta singh,Patient,Neha
+28-09-2021 12:17,210928029,Old,2,9575666564,40,Pirda,Female,Dr. Mamta singh,Patient,Neha
+28-09-2021 12:23,210928030,New,1,9340495621,26,Saraipali,Female,Dr. Mamta singh,Patient,Jyoti
+28-09-2021 12:25,210928031,Old,2,7804999921,62,Sarsiwa,Female,Dr. Mamta singh,Patient,Bandani
+28-09-2021 09:19,210928031,,,8225012252,43,Chorbhatti,Female,Dr. Mamta singh,Patient,Gaytri
+28-09-2021 12:31,210928032,New,1,9752286554,33,Saraipali,Male,Dr. Mamta singh,Patient,Ragini
+29-09-2021 09:48,210929001,New,3,8435821969,60,Mohtaran,Male,Dr. Mamta singh,Patient,Rakhi
+29-09-2021 09:50,210929002,New,1,8889381141,26,Toresiha,Male,Dr. Mamta singh,Painting,Jyoti
+29-09-2021 09:57,210929003,New,1,7999597456,52,Amarkot,Male,Dr. Mamta singh,Patient,Ragini
+29-09-2021 10:24,210929004,Old,8,9685522408,69,Manpasar,Male,Dr. Mamta singh,Patient,Gaytri
+29-09-2021 10:26,210929005,Old,8,9685522408,67,Manpasar,Female,Dr. Mamta singh,Patient,Neha
+29-09-2021 10:29,210929006,New,1,9301564263,56,Sarangarh,Male,Dr. Mamta singh,Poster/Pamplet,Ragini
+29-09-2021 10:40,210929007,Old,10,9406353061,35,Baramkela,Female,Dr. Mamta singh,Patient,Bandani
+29-09-2021 10:44,210929008,Old,9,8770478698,14,Darrabhata,Female,Dr. Mamta singh,Patient,Jyoti
+29-09-2021 10:47,210929009,Old,2,9009124811,23,Balodabazar,Female,Dr. Mamta singh,Patient,Jyoti thakur
+29-09-2021 10:55,210929010,Old,4,9406059996,41,Sarangarh,Female,Dr. Mamta singh,Patient,Rakhi
+29-09-2021 10:57,210929011,Old,2,6262980518,18,Sarangarh,Male,Dr. Mamta singh,Patient,Gaytri
+29-09-2021 11:04,210929012,New,1,9302244882,21,Suhagpur,Female,Dr. Mamta singh,Patient,Ragini
+29-09-2021 11:09,210929013,New,1,7024517481,20,Baramkela,Male,Dr. Mamta singh,Painting,Jyoti
+29-09-2021 11:11,210929014,Old,3,9165910543,60,Parsoda,Male,Pharmacy,Patient,Simpi
+29-09-2021 11:24,210929015,Old,2,8815147400,37,Kuelbahal,Male,Dr. Mamta singh,Patient,Gaytri
+29-09-2021 12:11,210929017,New,1,9999999999,50,Saraipali,Female,Dr. Mamta singh,Patient,Neha
+29-09-2021 12:19,210929018,Old,2,7354355639,26,Charbhata,Male,Dr. Mamta singh,Patient,Jyoti
+29-09-2021 12:38,210929019,New,1,7023474490,30,Jhilmila,Male,Dr. Mamta singh,Patient,Gaytri
+29-09-2021 17:06,210930001,Old,3,9575333055,27,Saraipali,Male,Pharmacy,Patient,Neha
+29-09-2021 16:58,210930003,Old,2,8629951701,16,Shakti,Female,Pharmacy,Patient,Preeti
+30-09-2021 09:24,210930004,New,1,9406112006,22,Salar,Female,Dr. Mamta singh,Patient,Jyoti
+30-09-2021 09:25,210930005,Old,2,7770848433,49,Toresiha,Female,Dr. Mamta singh,Patient,Ragini
+30-09-2021 09:28,210930006,Old,2,7974643676,10,Basna,Male,Dr. Mamta singh,Patient,Bandani
+30-09-2021 09:42,210930007,New,1,9926158099,65,Saraipali,Male,Dr. Mamta singh,Patient,Neha
+30-09-2021 09:46,210930008,New,1,6263810104,13,Siriyari,Male,Dr. Mamta singh,Poster/Pamplet,Gaytri
+30-09-2021 10:01,210930009,Old,3,8770887674,17,Rimjhi,Male,Dr. Mamta singh,Patient,Jyoti thakur
+30-09-2021 10:03,210930010,Old,1,9993435350,1,Kendudhar,Female,Dr. Mamta singh,Patient,Ragini
+30-09-2021 10:22,210930011,Old,5,6261765694,20,Mohtaras,Female,Dr. Mamta singh,Patient,Jyoti
+30-09-2021 10:19,210930012,New,1,9131832836,17,Basna,Female,Dr. Mamta singh,Patient,Neha
+30-09-2021 10:32,210930013,Old,2,8319220054,54,Bhothaldih,Male,Dr. Mamta singh,Patient,Gaytri
+30-09-2021 10:45,210930014,Old,2,9131449009,28,Saraipali,Male,Dr. Mamta singh,Patient,Ragini
+30-09-2021 10:54,210930015,New,1,6268171019,23,"Mudpahar, Sarsiwa",Female,Dr. Mamta singh,Patient,Rakhi
+30-09-2021 11:04,210930016,Old,4,6266821973,35,Boirdih,Female,Dr. Mamta singh,Patient,Gaytri
+30-09-2021 11:12,210930017,New,1,9522651928,66,Jhilmila,Male,Dr. Mamta singh,Poster/Pamplet,Jyoti thakur
+30-09-2021 11:18,210930018,New,1,8435569617,28,Rasoda,Male,Dr. Mamta singh,Patient,Ragini
+30-09-2021 11:20,210930019,Old,3,9993429013,30,Saraipali,Male,Pharmacy,Patient,Ragini
+30-09-2021 11:22,210930020,New,1,8889632334,28,Rasoda,Male,Dr. Mamta singh,Patient,Jyoti
+30-09-2021 11:39,210930021,Old,3,9082823175,71,Ponsara,Male,Dr. Mamta singh,Patient,Gaytri
+30-09-2021 11:41,210930022,Old,3,6261586687,6,Jagat,Female,Dr. Mamta singh,Patient,Ragini
+30-09-2021 11:44,210930023,Old,3,6261586687,30,Jagat,Male,Dr. Mamta singh,Patient,Jyoti
+30-09-2021 11:49,210930024,Old,5,8517888301,30,Basna,Male,Dr. Mamta singh,Patient,Jyoti thakur
+30-09-2021 12:09,210930025,New,1,9713085445,40,Rimji,Male,Dr. Mamta singh,Patient,Gaytri
+30-09-2021 12:17,210930026,New,1,9131427300,18,Sankra,Female,Dr. Mamta singh,Patient,Jyoti
+30-09-2021 12:21,210930027,Old,3,9575821000,36,Sagarpali,Female,Dr. Mamta singh,Patient,Ragini
+30-09-2021 12:30,210930028,New,1,9993735795,23,Basna,Male,Dr. Mamta singh,Patient,Jyoti thakur
+30-09-2021 12:34,210930029,Old,3,9111566050,14,Saraipali,Female,Dr. Mamta singh,Patient,Gaytri
+30-09-2021 12:40,210930030,Old,2,9752502903,31,Sarsiwa,Male,Dr. Mamta singh,Patient,Jyoti
+30-09-2021 12:45,210930031,Old,2,9926991065,42,Saraipali,Female,Pharmacy,Patient,Gaytri
+30-09-2021 12:48,210930032,New,1,6260859805,15,Jhilmila,Male,Dr. Mamta singh,Patient,Bandani
+30-09-2021 13:05,210930033,New,1,9399101330,20,Bandlimal,Female,Dr. Mamta singh,Poster/Pamplet,Jyoti thakur
+30-09-2021 13:14,210930034,Old,5,8435191111,40,Saraipali,Male,Dr. Mamta singh,Patient,Jyoti
+30-09-2021 13:20,210930035,Old,2,7566000225,32,Bhawarpur,Male,Dr. Mamta singh,Patient,Gaytri
+30-09-2021 13:47,210930036,Old,3,9617316364,32,Chhatwan,Female,Pharmacy,Patient,Preeti
+30-09-2021 13:48,210930037,Old,5,7066409613,32,Singhoda,Female,Pharmacy,Patient,Preeti
+30-09-2021 15:49,210930038,Old,2,6261766412,26,Mednipur,Male,Pharmacy,Patient,Neha
+01-10-2021 09:14,211001002,,,9340110567,40,Saraipali,Male,Dr. Mamta singh,Patient,Bandani
+01-10-2021 09:16,211001003,Old,2,9999999999,35,Bilaspur,Female,Dr. Mamta singh,Patient,Rakhi
+01-10-2021 09:18,211001004,Old,6,6260865529,35,Jognipali,Female,Dr. Mamta singh,Patient,Ragini
+01-10-2021 09:21,211001005,New,1,7724971967,23,Saraipali,Female,Dr. Mamta singh,Patient,Jyoti
+01-10-2021 09:30,211001006,Old,3,9999999999,60,Palsapali,Male,Dr. Mamta singh,Patient,Jyoti thakur
+01-10-2021 09:41,211001007,Old,2,6265831901,20,Rasoda,Female,Dr. Mamta singh,Patient,Jyoti
+01-10-2021 09:45,211001008,New,1,9009826137,38,Rasoda,Female,Dr. Mamta singh,Patient,Rakhi
+01-10-2021 09:47,211001009,Old,4,9575821000,60,Sagarpali,Female,Dr. Mamta singh,Patient,Bandani
+01-10-2021 10:02,211001010,New,1,6268320567,50,Nayagaon,Male,Dr. Mamta singh,Poster/Pamplet,Rakhi
+01-10-2021 10:04,211001011,Old,2,7049612297,56,Manpasar,Male,Dr. Mamta singh,Patient,Ragini
+01-10-2021 10:06,211001012,New,1,8463877895,21,Rikhadadar,Female,Dr. Mamta singh,Patient,Gaytri
+01-10-2021 10:09,211001013,Old,3,7987025848,40,Sankra,Female,Dr. Mamta singh,Patient,Jyoti
+01-10-2021 10:18,211001014,Old,3,8770380729,55,Basna,Female,Dr. Mamta singh,Patient,Bandani
+01-10-2021 10:26,211001015,New,1,7974560359,36,Kalmidadar,Female,Dr. Mamta singh,Patient,Jyoti thakur
+01-10-2021 10:29,211001016,New,1,7974560359,12,Kalmidadar,Female,Dr. Mamta singh,Patient,Rakhi
+01-10-2021 10:32,211001017,Old,2,8966006474,18,Pargala,Female,Dr. Mamta singh,Patient,Ragini
+01-10-2021 10:34,211001018,New,1,8966006474,55,Pargala,Female,Dr. Mamta singh,Patient,Gaytri
+01-10-2021 10:40,211001019,Old,4,7773024243,8,Saraipali,Female,Dr. Mamta singh,Patient,Jyoti
+01-10-2021 10:52,211001020,Old,4,9926826314,21,Gohirapali,Female,Dr. Mamta singh,Patient,Bandani
+01-10-2021 11:01,211001021,Old,3,9165562316,18,Saraipali,Male,Dr. Mamta singh,Patient,Rakhi
+01-10-2021 11:04,211001022,New,1,8878677066,35,Jharban,Female,Dr. Mamta singh,Painting,Jyoti thakur
+01-10-2021 11:10,211001023,New,1,8253018386,35,Jhumka,Female,Dr. Mamta singh,Patient,Ragini
+01-10-2021 11:21,211001024,New,1,9301370461,18,Basna,Female,Dr. Mamta singh,Patient,Bandani
+01-10-2021 11:25,211001025,Old,10,9131623643,35,Sankra,Female,Dr. Mamta singh,Patient,Jyoti
+01-10-2021 11:30,211001026,New,1,9999999999,23,Kushbhatha,Female,Dr. Mamta singh,Patient,Rakhi
+01-10-2021 11:35,211001027,Old,3,6264447408,65,Basna,Female,Dr. Mamta singh,Patient,Jyoti thakur
+01-10-2021 11:39,211001028,Old,3,8305963813,36,Saraipali,Female,Dr. Mamta singh,Patient,Bandani
+01-10-2021 11:41,211001029,Old,1,6383953471,35,Kesratal,Male,Dr. Mamta singh,Patient,Gaytri
+01-10-2021 11:47,211001030,Old,3,7000084510,27,Basna,Female,Dr. Mamta singh,Patient,Ragini
+01-10-2021 11:53,211001031,Old,2,8269871192,48,Udela,Female,Dr. Mamta singh,Patient,Rakhi
+01-10-2021 11:58,211001032,Old,4,7746059687,52,Saldih,Male,Dr. Mamta singh,Patient,Bandani
+01-10-2021 12:03,211001034,Old,3,8120874081,65,Kejua,Male,Dr. Mamta singh,Patient,Jyoti thakur
